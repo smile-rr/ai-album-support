@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI影集 - 隐私政策</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; }
+        h1 { color: #007AFF; }
+        .lang-switch { text-align: right; margin-bottom: 20px; }
+        .lang-switch a { color: #007AFF; text-decoration: none; }
+        .section { margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <div class="lang-switch">
+        <a href="privacy.html">English</a> | <a href="zh.html">技术支持</a>
+    </div>
+    
+    <h1>AI影集 - 隐私政策</h1>
+    <p><strong>最后更新：</strong> 2024年12月</p>
+    
+    <div class="section">
+        <h2>数据收集</h2>
+        <p>AI影集不收集、存储或传输任何个人数据或照片。所有照片分析均使用苹果Vision框架在您的设备本地完成。</p>
+    </div>
+    
+    <div class="section">
+        <h2>照片访问</h2>
+        <p>应用请求访问您的照片库仅用于显示和整理您的照片。您的照片永远不会离开设备，也不会上传到任何服务器。</p>
+    </div>
+    
+    <div class="section">
+        <h2>本地处理</h2>
+        <p>所有AI分析，包括照片质量评估和内容识别，均完全在您的设备上执行。不会向外部服务器发送任何数据。</p>
+    </div>
+    
+    <div class="section">
+        <h2>第三方服务</h2>
+        <p>AI影集不使用任何第三方分析、广告或数据收集服务。</p>
+    </div>
+    
+    <div class="section">
+        <h2>联系我们</h2>
+        <p>如果您对此隐私政策有疑问，请联系我们：support@aialbum.app</p>
+    </div>
+</body>
+</html>
